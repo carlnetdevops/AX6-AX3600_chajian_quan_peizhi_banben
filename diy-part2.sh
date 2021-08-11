@@ -33,6 +33,6 @@ git clone https://github.com/zzsj0928/luci-app-pushbot.git package/luci-app-push
 git clone https://github.com/pymumu/openwrt-smartdns package/smartdns
 git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns
 #homebridge
-git clone https://github.com/shanglanxin/luci-app-homebridge
+git clone https://github.com/shanglanxin/luci-app-homebridge.git package/luci-app-homebridge
 
 
